@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="150" viewBox="0 0 152 150">
+  <g fill="none" fill-rule="evenodd" stroke="#82DEFF" transform="translate(4 60)">
+    <polyline stroke-linecap="round" stroke-width="4.39" points="0 1.296 15.86 1.296 31 1.296"/>
+    <path stroke-linecap="round" stroke-width="4.39" d="M15.5,0.795918367 L15.5,28.7959184"/>
+    <polyline stroke-linecap="round" stroke-linejoin="round" stroke-width="4.39" points="39 28.796 39 .796 68 .796 68 14.437 54.225 14.437 68 28.796"/>
+    <polygon stroke-linejoin="round" stroke-width="3.659" points="79 .796 107 .796 107 28.796 79 28.796"/>
+    <polyline stroke-linecap="round" stroke-linejoin="round" stroke-width="4.39" points="116 1.796 116 14.796 130.5 14.796 145 14.796 145 1.796"/>
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4.39" d="M131.5,15.7959184 L131.5,29.7959184"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <circle id="theta-a" cx="75" cy="75" r="75"/>
+    <circle id="theta-c" cx="75" cy="75" r="75"/>
+    <linearGradient id="theta-d" x1="25.549%" x2="74.448%" y1="7.767%" y2="92.229%">
+      <stop offset="0%" stop-color="#2AB8E6"/>
+      <stop offset="53%" stop-color="#29CAD2"/>
+      <stop offset="100%" stop-color="#2EE4BE"/>
+    </linearGradient>
+    <circle id="theta-f" cx="75" cy="75" r="75"/>
+    <linearGradient id="theta-g" x1="31.505%" x2="68.499%" y1="20.173%" y2="79.834%">
+      <stop offset="0%" stop-color="#2AB8E6"/>
+      <stop offset="53%" stop-color="#29CAD2"/>
+      <stop offset="100%" stop-color="#2EE4BE"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="theta-b" fill="#fff">
+      <use xlink:href="#theta-a"/>
+    </mask>
+    <polygon fill="#1B1F2B" fill-rule="nonzero" points="0 0 150 0 150 150 0 150" mask="url(#theta-b)"/>
+    <mask id="theta-e" fill="#fff">
+      <use xlink:href="#theta-c"/>
+    </mask>
+    <polygon fill="#1B1F2B" fill-rule="nonzero" stroke="url(#theta-d)" stroke-linejoin="bevel" stroke-width="9.43" points="50.252 32.252 99.752 32.252 99.752 117.752 50.252 117.752" mask="url(#theta-e)"/>
+    <mask id="theta-h" fill="#fff">
+      <use xlink:href="#theta-f"/>
+    </mask>
+    <path fill="url(#theta-g)" fill-rule="nonzero" d="M90,88.5 L79.7494226,88.5 L79.7494226,99.23903 L70.5,99.23903 L70.5,88.5 L60.2494226,88.5 L60.2494226,79.2505774 L90,79.2505774 L90,88.5 Z M90,61.9988453 L79.7494226,61.9988453 L79.7494226,51.2598152 L70.5,51.2598152 L70.5,61.9988453 L60.2494226,61.9988453 L60.2494226,71.2482679 L90,71.2482679 L90,61.9988453 Z" mask="url(#theta-h)"/>
+  </g>
+</svg>

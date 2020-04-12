@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="arpa-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CBCCCD"/>
+      <stop offset="100%" stop-color="#9B9B9C"/>
+    </linearGradient>
+    <linearGradient id="arpa-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#DCEBF5"/>
+      <stop offset="100%" stop-color="#C7D4DC"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" transform="translate(0 10)">
+    <polygon fill="url(#arpa-a)" points="40.417 101.752 82.88 27.654 141.914 129.299 150 115.399 82.88 0 24.434 101.752"/>
+    <polygon fill="#5A5967" points="75.105 41.449 117.871 115.917 0 115.917 8.047 129.638 141.855 129.638 82.729 27.828"/>
+    <polygon fill="url(#arpa-b)" points="82.65 0 66.498 0 0 115.724 117.76 115.724 109.711 102.066 24.169 102.066"/>
+  </g>
+</svg>
