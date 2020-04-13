@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(29)">
+<polygon points="45.986 0 44.982 3.417 44.982 102.58 45.986 103.58 91.972 76.374" fill="#343434"/>
+<polygon points="45.986 0 0 76.374 45.986 103.58 45.986 55.453" fill="#8C8C8C"/>
+<polygon points="45.986 112.3 45.42 112.99 45.42 148.31 45.986 149.97 92 85.103" fill="#3C3C3B"/>
+<polygon points="45.986 149.97 45.986 112.3 0 85.103" fill="#8C8C8C"/>
+<polygon points="45.986 103.58 91.972 76.374 45.986 55.453" fill="#141414"/>
+<polygon points="0 76.374 45.986 103.58 45.986 55.453" fill="#393939"/>
+</g>
+</svg>

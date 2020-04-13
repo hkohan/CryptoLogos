@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="b" x1="50%" x2="50%" y2="100%">
+<stop stop-color="#CBCCCD" offset="0"/>
+<stop stop-color="#9B9B9C" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="50%" x2="50%" y2="100%">
+<stop stop-color="#DCEBF5" offset="0"/>
+<stop stop-color="#C7D4DC" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 10)">
+<polygon points="40.417 101.75 82.88 27.654 141.91 129.3 150 115.4 82.88 0 24.434 101.75" fill="url(#b)"/>
+<polygon points="75.105 41.449 117.87 115.92 0 115.92 8.047 129.64 141.86 129.64 82.729 27.828" fill="#5A5967"/>
+<polygon points="82.65 0 66.498 0 0 115.72 117.76 115.72 109.71 102.07 24.169 102.07" fill="url(#a)"/>
+</g>
+</svg>
